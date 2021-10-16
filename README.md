@@ -15,6 +15,8 @@ For this workshop, we're only targeting desktops (although if you're so inclined
 
 ## Setup Instructions
 
+Fork the repo and follow instrcution below.
+
 This project uses create-react-app.
 
 Start by installing dependencies:
